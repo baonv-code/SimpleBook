@@ -40,6 +40,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>f0c8e5cf-ad32-427f-8e3e-282b446e44d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SimpleBook/Get an Order Test Case</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>94f85499-4ad8-4b3d-b52f-5878c9c5881f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
